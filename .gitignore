@@ -1,0 +1,11 @@
+.env
+.env.*
+!.env.example
+node_modules/
+dist/
+build/
+.cache/
+.wrangler/
+*.log
+*.zip
+.DS_Store
