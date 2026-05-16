@@ -1,11 +1,11 @@
-# documentacao-jus9-tecnologia-juridica
+# documentacao-jus9-tecnologia-juridica — atualização MVP v1.7
 
+Referência ao pacote MVP com acesso por perfil, Agenda Jus 9 e links principais.
 
-## Links institucionais Jus 9 v1.5
-
-- [Equipe Jus 9](https://www.jus9tecnologia.com.br/equipe/)
+Links semânticos importantes:
+- [Equipe](https://www.jus9tecnologia.com.br/equipe/)
 - [Investidores](https://investimentos.jus9tecnologia.com.br/)
 - [MVP](https://www.jus9tecnologia.com.br/mvp)
 - [Charlie Echo](https://charlieecho.jus9tecnologia.com.br/)
-- [Charlie Echo Social](https://jus9verde.jus9tecnologia.com.br/charlie-echo-social)
-- [Contato](mailto:clovis@jus9tecnologia.com.br)
+
+© Jus 9 Tecnologia Jurídica — software livre, autoria preservada.
