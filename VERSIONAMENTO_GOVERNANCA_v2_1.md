@@ -1,6 +1,6 @@
 # Versionamento — Governança v2.1
 
-Repertório: `documentacao-jus9-tecnologia-juridica`
+Repertório: `db-modelos-migracoes-jus9-tecnologia-juridica`
 
 Pacote: Encerramento Governança Charlie Echo da Costa.
 
