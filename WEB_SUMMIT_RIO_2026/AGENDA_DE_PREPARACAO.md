@@ -8,7 +8,7 @@ CLASSIFICACAO: INTERNO OPERACIONAL / SEM SEGREDOS
 - Pagina Web Summit em Investidores.
 - Calculadora de viagem e materiais.
 - Cronograma de todos os MVPs.
-- Kit Santander.
+- Kit de busca de parcerias.
 
 ## 25 a 31 de maio de 2026
 
