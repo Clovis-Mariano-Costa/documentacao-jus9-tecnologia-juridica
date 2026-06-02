@@ -25,8 +25,8 @@ Procurar por:
 - Se ainda não aparecer, verificar se o deploy da Cloudflare Pages rodou após o commit.
 - Preservar links e botões antigos.
 - Não afirmar parceria atual, patrocínio ou endosso do Banco Itaú.
-- Nos e-mails bancários, usar o link emergencial:
-  https://investimentos.jus9tecnologia.com.br/emergencia-evento
+- Nos e-mails bancários, usar o link de investimentos e parcerias:
+  https://investimentos.jus9tecnologia.com.br/busca-parcerias
 
 ---
 

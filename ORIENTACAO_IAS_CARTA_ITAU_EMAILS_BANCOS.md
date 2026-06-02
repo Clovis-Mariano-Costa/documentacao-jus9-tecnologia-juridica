@@ -9,7 +9,7 @@
 - Usar Telefone / WhatsApp: +55 48 99908-2726.
 - Inserir CPF somente se indispensável a tratativas bancárias/financeiras.
 - Usar CNPJ da Jus 9 Tecnologia Jurídica: 17.160.346/0001-50.
-- Inserir link emergencial quando couber: https://investimentos.jus9tecnologia.com.br/emergencia-evento.
+- Inserir link de investimentos e parcerias quando couber: https://investimentos.jus9tecnologia.com.br/busca-parcerias.
 - Não enviar e-mails aos bancos sem autorização expressa do Fundador.
 - Não afirmar parceria, patrocínio, endosso ou promessa de retorno.
 
